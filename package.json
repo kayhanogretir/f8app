@@ -38,6 +38,9 @@
     "redux-thunk": "~2.1.0",
     "reselect": "~2.5.1"
   },
+  "optionalDependencies": {
+    "fsevents": "~1.0.12"
+  },
   "devDependencies": {
     "babel-eslint": "~6.1.0",
     "babel-jest": "~13.0.0",
